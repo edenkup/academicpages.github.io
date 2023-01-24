@@ -97,6 +97,17 @@ $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
+/* contrast */
+$text-color: #000;
+$muted-text-color: $text-color;
+$primary-color: #ff0000;
+$border-color: mix(#fff, $text-color, 75%);
+$footer-background-color: #000;
+$link-color: #0000ff;
+$masthead-link-color: $text-color;
+$masthead-link-color-hover: $text-color;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%);
+
 /*
    Breakpoints
    ========================================================================== */
