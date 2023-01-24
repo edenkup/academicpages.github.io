@@ -10,7 +10,7 @@ redirect_from:
 
 **About**
 
-PhD student in Tel Aviv University under the supervision of [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/). My research interests lie mainly in Ramsey theory and in probabilistic combinatorics.
+I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/). My research interests lie mainly in Ramsey theory and in probabilistic combinatorics.
 
 **Past works**
 - E. Friedgut, E. Kuperwasser, W. Samotij, M. Schacht: [*Sharp thresholds for Ramsey properties*](https://arxiv.org/pdf/2207.13982.pdf)
