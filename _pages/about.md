@@ -19,11 +19,18 @@ I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samo
    E. Kuperwasser, W. Samotij, Y. Wigderson <br />
    <i>submitted</i>
 
-- [*The list-Ramsey threshold for families of graphs*](https://arxiv.org/pdf/2305.19964.pdf)
--- E. Kuperwasser, W. Samotij
-- [*Sharp thresholds for Ramsey properties*](https://arxiv.org/pdf/2207.13982.pdf)
--- E. Friedgut, E. Kuperwasser, W. Samotij, M. Schacht
-- [*List Ramsey Numbers*](https://arxiv.org/pdf/1902.07018)
--- N. Alon, M. Bucić, T. Kalvari, E. Kuperwasser, T. Szabó
-- [*Approachability with Constraints*](https://arxiv.org/pdf/1712.00781.pdf)
--- G. Fournier, E. Kuperwasser, O. Munk, E. Solan, A. Weinbaum
+- [*The list-Ramsey threshold for families of graphs*](https://arxiv.org/pdf/2305.19964.pdf) <br />
+   E. Kuperwasser, W. Samotij <br />
+   <i>submitted</i>
+   
+- [*Sharp thresholds for Ramsey properties*](https://arxiv.org/pdf/2207.13982.pdf) <br />
+   E. Friedgut, E. Kuperwasser, W. Samotij, M. Schacht <br />
+   <i>submitted</i>
+   
+- [*List Ramsey Numbers*](https://arxiv.org/pdf/1902.07018) <br />
+   N. Alon, M. Bucić, T. Kalvari, E. Kuperwasser, T. Szabó <br />
+   <i>Journal of Graph Theory</i>
+   
+- [*Approachability with Constraints*](https://arxiv.org/pdf/1712.00781.pdf) <br />
+   G. Fournier, E. Kuperwasser, O. Munk, E. Solan, A. Weinbaum <br />
+   <i>European Journal of Operation Research</i>
