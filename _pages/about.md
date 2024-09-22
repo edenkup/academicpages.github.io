@@ -21,7 +21,7 @@ I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samo
 
 - [*The list-Ramsey threshold for families of graphs*](https://arxiv.org/pdf/2305.19964.pdf) <br />
    E. Kuperwasser, W. Samotij <br />
-   <i>accepted to Combinatorics, Probability and Computing</i>
+   <i>Combinatorics, Probability and Computing</i>
    
 - [*Sharp thresholds for Ramsey properties*](https://arxiv.org/pdf/2207.13982.pdf) <br />
    E. Friedgut, E. Kuperwasser, W. Samotij, M. Schacht <br />
@@ -29,8 +29,8 @@ I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samo
    
 - [*List Ramsey Numbers*](https://arxiv.org/pdf/1902.07018) <br />
    N. Alon, M. Bucić, T. Kalvari, E. Kuperwasser, T. Szabó <br />
-   <i>Journal of Graph Theory</i>
+   <i>Journal of Graph Theory 96 (1), 109-128</i>
    
 - [*Approachability with Constraints*](https://arxiv.org/pdf/1712.00781.pdf) <br />
    G. Fournier, E. Kuperwasser, O. Munk, E. Solan, A. Weinbaum <br />
-   <i>European Journal of Operation Research</i>
+   <i>European Journal of Operational Research 292 (2), 687-695</i>
