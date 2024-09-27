@@ -21,7 +21,7 @@ I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samo
 
 - [*The list-Ramsey threshold for families of graphs*](https://arxiv.org/pdf/2305.19964.pdf) <br />
    E. Kuperwasser, W. Samotij <br />
-   <i>Combinatorics, Probability and Computing</i>
+   <i>accepted to Combinatorics, Probability and Computing</i>
    
 - [*Sharp thresholds for Ramsey properties*](https://arxiv.org/pdf/2207.13982.pdf) <br />
    E. Friedgut, E. Kuperwasser, W. Samotij, M. Schacht <br />
