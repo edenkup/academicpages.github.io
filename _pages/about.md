@@ -13,7 +13,7 @@ redirect_from:
 I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/). My research interests lie mainly in Ramsey theory and in probabilistic combinatorics.
 
 **Papers**
-- *On the anti-Ramsey threshold* <br />
+- [*On the anti-Ramsey threshold*](https://www.youtube.com/watch?v=L4HW33SgZlM) <br />
    E. Kuperwasser <br />
    <i>In preperation</i>  
 
